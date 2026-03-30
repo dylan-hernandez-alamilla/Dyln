@@ -1,0 +1,10 @@
+Package: Dyln
+Title: Organizing and finding the means and other analysis for movies and their reviews
+Version: 0.0.0.9000
+Authors@R:
+    person("Dylan", "Hernandez-Alamilla", , "hernandezalamilla@usf.edu", role = c("aut", "cre"))
+Description: Helps with organizing reviews, ratings, and the number of times someone has seen a movie. This could be used to create personalized infographics for users who wish to see their data analytics on the movies they have seen throughout their account. Graphics could be created from the data and reviews could be cleaned using tidytext for sentiment analysis. 
+License: CC0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
