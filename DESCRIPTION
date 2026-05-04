@@ -1,4 +1,4 @@
-Package: Dyln
+Package: MovieTimeStats
 Title: Organizing and finding the means and other analysis for movies and their reviews
 Version: 0.0.0.9000
 Authors@R:
